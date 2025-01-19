@@ -1,7 +1,7 @@
 // const path = require('path')
 
 export default {
-    root: 'src/',
+    root: 'src',
     publicDir: '../static/',
     base: './', 
     server:
